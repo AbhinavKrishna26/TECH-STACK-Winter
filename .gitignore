@@ -19,3 +19,35 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+
+.ICEauthority
+	.PyCharmCE2019.3/
+	.bash_history
+	.bash_logout
+	.bashrc
+	.cache/
+	.config/
+	.gitconfig
+	.gnome/
+	.gnupg/
+	.java/
+	.local/
+	.mozilla/
+	.npm/
+	.nvidia-settings-rc
+	.pki/
+	.profile
+	.sudo_as_admin_successful
+	.thunderbird/
+	.viminfo
+	.vscode/
+	Desktop/vue-skills/
+	Downloads/
+	Message_Scheduler/
+	PycharmProjects/
+	examples.desktop
+	google-chrome-stable_current_amd64.deb
+	snap/
+	wget-log
+
