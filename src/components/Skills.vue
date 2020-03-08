@@ -37,10 +37,12 @@ export default {
     addSkill(){
       this.skills.push({skill: this.skill})
       this.skill='';
+      alert("New Task added);
       
     },
     remove(id) {
       this.skills.splice(id,1);
+      alert("Task will be  removed");
     }
   }
 
