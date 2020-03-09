@@ -37,7 +37,7 @@ export default {
     addSkill(){
       this.skills.push({skill: this.skill})
       this.skill='';
-      alert("New Task added);
+      alert("New Task added" );
       
     },
     remove(id) {
